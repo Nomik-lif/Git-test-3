@@ -1,5 +1,5 @@
 import pandas as pd
-
+print("test")
 def analyze_football_match(data):
     """
     מקבל DataFrame של נתוני משחק כדורגל (למשל: שערים, בעיטות, מסירות, שליטה בכדור)
